@@ -1,1 +1,1 @@
-# Machine-learning-Projects
+Here are some of my projects I have done on different algorithems of ML. Some are with real-word data. Some of projects are assignments of Andrew Ng's courses. The rest are additional projects from my own work or from differnet courses.
